@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '38682'
     url: http://www.gutenberg.org/2009/agents/38682
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37367#Verses-of-Feeling-and-Fancy
 gutenberg_issued: '2011-09-09'
 gutenberg_type: Text
 identifiers:
